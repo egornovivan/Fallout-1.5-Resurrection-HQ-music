@@ -16,5 +16,7 @@ High quality music for Fallout 1.5: Resurrection.
 1. In `fallout2.cfg` find `[sound]` section and set `music_path1=data\sound\music\`.
 1. In `ddraw.ini`, find `[Sound]` section and set `AllowDShowSound=2`.
 
-
+## Composer
+[Mark Morgan](https://vgmdb.net/artist/1446)
+[Emitremmus](https://emitremmus.bandcamp.com/)
 
