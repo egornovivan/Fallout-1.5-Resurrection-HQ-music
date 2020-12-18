@@ -25,4 +25,5 @@ High quality music for Fallout 1.5: Resurrection.
 ## Composer
 [Mark Morgan](https://vgmdb.net/artist/1446)
 [Emitremmus](https://emitremmus.bandcamp.com/)
+[Simon Dedeken](https://www.youtube.com/channel/UCv9d5gjZPbV9H9bPWvFFC1A)
 
